@@ -13,8 +13,6 @@ Restaurant recommendation app that has the ability to search different cities to
 
 ![image](https://user-images.githubusercontent.com/43754676/151200054-a9591699-4fce-4336-8654-9e17ab86ae57.png)
 
-![image](https://user-images.githubusercontent.com/43754676/151200068-52d5b4b1-db98-4da8-8485-d52b8772ac28.png)
-
 ![image](https://user-images.githubusercontent.com/43754676/151200077-3d4bb2d2-2bfd-4368-9f90-71108f4c9c7f.png)
 
 ![image](https://user-images.githubusercontent.com/43754676/151200110-af856489-d1ad-4790-93b6-cc854619aa00.png)
